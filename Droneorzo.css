@@ -1,0 +1,18 @@
+* {
+    margin: 0;
+    border: 0;
+    padding: 0;
+}
+/* Successful aerial */
+.aerial {
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+}
+
+#aerial {
+    font-size: 40px;
+}
+
+#case-by-case {
+    font-size: 16px;
+}
