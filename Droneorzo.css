@@ -2,17 +2,34 @@
     margin: 0;
     border: 0;
     padding: 0;
-}
-/* Successful aerial */
-.aerial {
-    text-align: center;
     font-family: 'Poppins', sans-serif;
 }
 
-#aerial {
-    font-size: 40px;
+/* Successful aerial */
+.survey-h-p {
+    text-align: center;
+}
+.survey-part {
+    display: flex;
+    gap: 150px;
+    padding: 0 180px;
+}
+.icon {
+    width: 88px;
+    height: 88px;
+    flex-shrink: 0;
 }
 
-#case-by-case {
+.number {
+    color: #000;
+    font-size: 40px;
+    font-weight: 600;
+    line-height: normal;
+}
+
+.survey-title {
+    color: #000;
     font-size: 16px;
+    font-weight: 500;
+    line-height: normal;
 }
