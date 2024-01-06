@@ -57,6 +57,32 @@
     line-height: normal;
 }
 
+/* FEATURED SERVICES */
+.service-scetion {
+    background-color: #F9F9F9;
+    margin-top: 91px
+}
+.service-title {
+    padding-top: 120px;
+    text-align: center;
+    
+}
+
+.service-title h3 {
+    color: #000;
+    font-size: 40px;
+    font-weight: 700;
+    line-height: normal;
+    padding-bottom: 20px;
+}
+.service-title p {
+    color: #000;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: normal;
+    padding-bottom: 120px;
+}
+
 /* Our Dedicated Team */
 .team-title {
     margin-top: 120px;
